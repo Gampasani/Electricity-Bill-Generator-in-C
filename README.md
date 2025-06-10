@@ -38,13 +38,20 @@ This is a simple and practical C program that simulates an electricity billing s
 ## 🖥️ Sample Output
 
 Enter Customer Name: G Ravi Teja
+
 Enter Meter Number: 6356688
+
 Enter Units Consumed: 420
 
 ========= ELECTRICITY BILL =========
+
+
 Customer Name : G Ravi Teja
+
 Meter Number : 6356688
+
 Units Used : 420
+
 Total Amount : ₹925.00
 
 
@@ -60,12 +67,16 @@ gcc electricity_bill.c -o bill.exe
 ▶️ Execute the Program
 
 ./bill.exe    # Linux/Mac
+
 bill.exe      # Windows CMD/PowerShell
 
 👨‍💻 Author
+
 Gampasani Teja
+
 B.Tech CSE (Data Science) – ANITS
-GitHub: [your GitHub link here]
+
 
 ##🧾 License
+
 This project is for educational use. Feel free to fork and improve it.
