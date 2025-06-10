@@ -54,7 +54,7 @@ Total Amount : ₹925.00
 
 ### 🔧 Compile the Code (using GCC)
 
-```bash
+
 gcc electricity_bill.c -o bill.exe
 
 ▶️ Execute the Program
