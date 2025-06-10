@@ -62,7 +62,7 @@ gcc electricity_bill.c -o bill.exe
 ./bill.exe    # Linux/Mac
 bill.exe      # Windows CMD/PowerShell
 
-##👨‍💻 Author
+👨‍💻 Author
 Gampasani Teja
 B.Tech CSE (Data Science) – ANITS
 GitHub: [your GitHub link here]
